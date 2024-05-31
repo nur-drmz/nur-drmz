@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.canva.com/design/DAGG0UU4fnA/h9D7atZdySHVPJfPwpJOVw/view?utm_content=DAGG0UU4fnA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![MasterHead](https://www.canva.com/design/DAGG0UU4fnA/h9D7atZdySHVPJfPwpJOVw/view?utm_content=DAGG0UU4fnA&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur-drmz&show_icons=true&locale=en" alt="nur-drmz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-drmz&" alt="nur-drmz" /></p>
-
