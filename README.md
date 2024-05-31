@@ -1,5 +1,5 @@
 
-[![MasterHead](https://resmim.net/cdn/2024/05/31/fLbF7T.png)
+[![MasterHead]([https://resmim.net/cdn/2024/05/31/fLbF7T.png](https://resmim.net/cdn/2024/05/31/fLoaiT.png))
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
 <h3 align="center">Future Data Scientist| Creating Data-Powered Intelligence</h3>
