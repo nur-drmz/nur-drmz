@@ -1,4 +1,5 @@
-[![MasterHead](https://resmim.net/cdn/2024/05/31/fLoaiT.png)
+![MasterHead](https://resmim.net/cdn/2024/05/31/fLoaiT.png)
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
@@ -26,3 +27,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nur-drmz&" alt="nur-drmz" /></p>
 
 ![snake gif](https://github.com/nur-drmz/nur-drmz/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
