@@ -1,5 +1,5 @@
 
-[![MasterHead](https://drive.google.com/file/d/17-qLXDZ3v2-Q61ZvWkLHG8HIW2gnFU2_/view?usp=sharing)
+[![MasterHead](https://www.canva.com/design/DAGG0UU4fnA/h9D7atZdySHVPJfPwpJOVw/view?utm_content=DAGG0UU4fnA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
