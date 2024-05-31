@@ -3,19 +3,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
-<h3 align="center">Future Data Scientist| Creating Data-Powered Intelligence</h3>
+<h3 align="center">Future Data Scientist | Creating Data-Powered Intelligence</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@thatsnurd](https://medium.com/@thatsnurd)
 
-- 📫 How to reach me **drmzay12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
+<a href="drmzay12@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="nurdurmaz" height="30" width="55" /></a>
 <a href="https://linkedin.com/in/ayse-nur-durmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayse-nur-durmaz" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayenurdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayenurdurmaz" height="30" width="40" /></a>
 <a href="https://medium.com/@thatsnurd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thatsnurd" height="30" width="40" /></a>
 <a href="https://discord.gg/nurdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nurdurmaz" height="30" width="40" /></a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
