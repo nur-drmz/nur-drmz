@@ -1,4 +1,4 @@
-![MasterHead](https://resmim.net/cdn/2024/05/31/fLoaiT.png)
+![MasterHead](https://resmim.net/cdn/2024/06/01/fL1LLL.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=nur-drmz&style=flat-square&logo=appveyor&color=blue)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
