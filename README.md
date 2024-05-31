@@ -1,6 +1,5 @@
 
-[![MasterHead](https://www.canva.com/design/DAGG0UU4fnA/h9D7atZdySHVPJfPwpJOVw/view?utm_content=DAGG0UU4fnA&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
-
+[![MasterHead](https://resmim.net/cdn/2024/05/31/fLbF7T.png)
 
 <h1 align="center">Hi 👋, I'm Ayşe Nur Durmaz</h1>
 <h3 align="center">Future Data Scientist| Creating Data-Powered Intelligence</h3>
