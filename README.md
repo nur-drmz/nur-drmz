@@ -33,22 +33,6 @@
 <img src="https://img.shields.io/badge/Python-971901?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Scikit_Learn-971901?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-971901?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-971901?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Keras-971901?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-971901?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/SQL-971901?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-971901?style=for-the-badge&logo=PyTorch&logoColor=white"> 
 
 
- <aside>
-    <h3 id="-nbsp-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-    <p align="center">
-      <a href="https://github.com/nur-drmz">
-        <img
-          height="180em"
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=fbghkh1999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-        />
-        <img
-          height="180em"
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nur-drmz&layout=compact&langs_count=12&theme=algolia&hide=css,html,jupyter%20notebook"
-        />
-      </a>
-    </p>
-  </aside>
-
 
 
 ![snake gif](https://github.com/nur-drmz/nur-drmz/blob/output/github-contribution-grid-snake.gif)
