@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋 , I'm Ayşe Nur </h1>
-<h3 align="center">Future Data Scientist | Creating Data-Powered Intelligence</h3>
+<h3 align="center"> Computer Engineer | Creating Data-Powered Intelligence</h3>
 
 
 
