@@ -36,7 +36,7 @@
  <aside>
     <h3 id="-nbsp-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
     <p align="center">
-      <a href="https://github.com/fbghkh1999">
+      <a href="https://github.com/nur-drmz">
         <img
           height="180em"
           src="https://github-readme-stats-eight-theta.vercel.app/api?username=fbghkh1999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
