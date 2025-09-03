@@ -1,9 +1,4 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=nur-drmz&style=flat-square&logo=appveyor&color=blue)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/nur-drmz/nur-drmz/?style=flat-square&color=pink)](https://badges.pufler.dev)
 
 
 
